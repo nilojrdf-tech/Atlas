@@ -21,5 +21,6 @@ build_log.txt
 
 # Windows / editor
 .vscode/
+.claude/
 Thumbs.db
 Desktop.ini
