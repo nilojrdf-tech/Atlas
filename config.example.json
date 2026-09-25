@@ -1,0 +1,17 @@
+{
+  "_comentario": "Isto documenta o formato de %APPDATA%/Atlas/config.json, gerado automaticamente pela janela de Configuracoes do Atlas. Nao contem chaves de API — essas ficam no Gerenciador de Credenciais do Windows, nunca neste arquivo.",
+  "wake_word": "atlas",
+  "gemini_model": "gemini-3.8-flash",
+  "web_search_enabled": true,
+  "system_voice_id": "",
+  "elevenlabs_voice_id": "f016iUUEKqhX0trYHH6Q",
+  "elevenlabs_model": "eleven_multilingual_v2",
+  "input_device": null,
+  "output_device": null,
+  "avatar_screen_index": 0,
+  "avatar_scale": 1.0,
+  "avatar_image_dir": "",
+  "start_with_windows": false,
+  "silence_after_question_s": 1.8,
+  "silence_no_question_s": 6.0
+}

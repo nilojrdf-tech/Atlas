@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+
+# Modelos e artefatos grandes (baixados por script, nao versionados)
+models/
+
+# Referencia externa (clonada, nao e nosso codigo)
+referencias/
+
+# Configuracao local (nunca segredos aqui, mas por seguranca)
+config.json
+*.spec
+*.log
+build_log.txt
+
+# Windows / editor
+.vscode/
+Thumbs.db
+Desktop.ini
